@@ -1,0 +1,409 @@
+2025-09-27 22:02:34,385 - GawkDataCollector - INFO - Data collection application initialized
+2025-09-27 22:02:37,086 - GawkDataCollector - INFO - Starting PDF selection process
+2025-09-27 22:02:39,606 - GawkDataCollector - INFO - PDF selected: C:/Users/chinm/Downloads/content.pdf
+2025-09-27 22:02:39,608 - GawkDataCollector - INFO - PDF copied successfully to: gawk_data\pdfs\manual_1759024959.pdf
+2025-09-27 22:02:47,263 - GawkDataCollector - INFO - Starting recording process
+2025-09-27 22:02:47,263 - GawkDataCollector - INFO - Initializing webcam...
+2025-09-27 22:02:47,611 - GawkDataCollector - INFO - Webcam initialized: 640x480 @ 30fps
+2025-09-27 22:02:47,611 - GawkDataCollector - INFO - Initializing screen capture...
+2025-09-27 22:02:47,611 - GawkDataCollector - INFO - Screen capture initialized: 1920x1200
+2025-09-27 22:02:47,611 - GawkDataCollector - INFO - Video writers created: webcam=gawk_data\videos\webcam_20250927_220247.avi, screen=gawk_data\videos\screen_20250927_220247.avi
+2025-09-27 22:02:47,618 - GawkDataCollector - INFO - Recording thread started
+2025-09-27 22:02:47,618 - GawkDataCollector - INFO - Recording started successfully
+2025-09-27 22:02:48,146 - GawkDataCollector - ERROR - Recording error: '_thread._local' object has no attribute 'srcdc'
+2025-09-27 22:02:48,146 - GawkDataCollector - INFO - Recording thread ended. Total frames: 0
+2025-09-27 22:03:59,441 - GawkDataCollector - INFO - Data collection application initialized
+2025-09-27 22:04:01,284 - GawkDataCollector - INFO - Starting PDF selection process
+2025-09-27 22:04:03,520 - GawkDataCollector - INFO - PDF selected: C:/Users/chinm/Downloads/content.pdf
+2025-09-27 22:04:03,520 - GawkDataCollector - INFO - PDF copied successfully to: gawk_data\pdfs\manual_1759025043.pdf
+2025-09-27 22:04:06,370 - GawkDataCollector - INFO - Starting recording process
+2025-09-27 22:04:06,370 - GawkDataCollector - INFO - Initializing webcam...
+2025-09-27 22:04:06,717 - GawkDataCollector - INFO - Webcam initialized: 640x480 @ 30fps
+2025-09-27 22:04:06,717 - GawkDataCollector - INFO - Initializing screen capture...
+2025-09-27 22:04:06,723 - GawkDataCollector - INFO - Screen capture initialized: 1920x1200
+2025-09-27 22:04:06,733 - GawkDataCollector - INFO - Video writers created: webcam=gawk_data\videos\webcam_20250927_220406.avi, screen=gawk_data\videos\screen_20250927_220406.avi
+2025-09-27 22:04:06,736 - GawkDataCollector - INFO - Recording thread started
+2025-09-27 22:04:06,736 - GawkDataCollector - INFO - Recording started successfully
+2025-09-27 22:04:36,295 - GawkDataCollector - INFO - Recorded 300 frames
+2025-09-27 22:04:48,134 - GawkDataCollector - INFO - Stopping recording...
+2025-09-27 22:04:48,234 - GawkDataCollector - INFO - Recording thread ended. Total frames: 377
+2025-09-27 22:04:48,234 - GawkDataCollector - INFO - Recording thread stopped
+2025-09-27 22:04:48,781 - GawkDataCollector - INFO - Webcam released
+2025-09-27 22:04:48,781 - GawkDataCollector - INFO - Webcam writer released
+2025-09-27 22:04:48,800 - GawkDataCollector - INFO - Screen writer released
+2025-09-27 22:04:48,800 - GawkDataCollector - INFO - Saving metadata...
+2025-09-27 22:04:48,800 - GawkDataCollector - INFO - Extracting PDF info from: gawk_data\pdfs\manual_1759025043.pdf
+2025-09-27 22:04:48,817 - GawkDataCollector - INFO - PDF info extracted: 10 pages, title: Unknown
+2025-09-27 22:04:48,825 - GawkDataCollector - INFO - Recording metadata saved to: gawk_data\metadata\recording_info.json
+2025-09-27 22:04:48,825 - GawkDataCollector - INFO - PDF metadata saved to: gawk_data\metadata\pdf_info.json
+2025-09-27 22:04:48,825 - GawkDataCollector - INFO - Extracting PDF pages as images...
+2025-09-27 22:04:48,825 - GawkDataCollector - INFO - Converting PDF to images with DPI 150...
+2025-09-27 22:04:48,825 - GawkDataCollector - ERROR - Error extracting PDF pages: Unable to get page count. Is poppler installed and in PATH?
+2025-09-27 22:04:48,825 - GawkDataCollector - INFO - Metadata saved successfully
+2025-09-27 22:04:48,825 - GawkDataCollector - INFO - Recording stopped successfully
+2025-09-27 22:05:43,466 - GawkDataCollector - INFO - Data collection application initialized
+2025-09-27 22:05:45,763 - GawkDataCollector - INFO - Starting PDF selection process
+2025-09-27 22:05:48,209 - GawkDataCollector - INFO - PDF selected: C:/Users/chinm/Downloads/content.pdf
+2025-09-27 22:05:48,211 - GawkDataCollector - INFO - PDF copied successfully to: gawk_data\pdfs\manual_1759025148.pdf
+2025-09-27 22:05:51,023 - GawkDataCollector - INFO - Starting recording process
+2025-09-27 22:05:51,023 - GawkDataCollector - INFO - Initializing webcam...
+2025-09-27 22:05:51,478 - GawkDataCollector - INFO - Webcam initialized: 640x480 @ 30fps
+2025-09-27 22:05:51,478 - GawkDataCollector - INFO - Initializing screen capture...
+2025-09-27 22:05:51,478 - GawkDataCollector - INFO - Screen capture initialized: 1920x1200
+2025-09-27 22:05:51,499 - GawkDataCollector - INFO - Video writers created: webcam=gawk_data\videos\webcam_20250927_220551.avi, screen=gawk_data\videos\screen_20250927_220551.avi
+2025-09-27 22:05:51,502 - GawkDataCollector - INFO - Recording thread started
+2025-09-27 22:05:51,502 - GawkDataCollector - INFO - Recording started successfully
+2025-09-27 22:05:52,187 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage1" doesn't exist
+2025-09-27 22:05:52,271 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage2" doesn't exist
+2025-09-27 22:05:52,319 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage3" doesn't exist
+2025-09-27 22:05:52,384 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage4" doesn't exist
+2025-09-27 22:05:52,429 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage5" doesn't exist
+2025-09-27 22:05:52,486 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage6" doesn't exist
+2025-09-27 22:05:52,534 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage7" doesn't exist
+2025-09-27 22:05:52,581 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage8" doesn't exist
+2025-09-27 22:05:52,629 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage9" doesn't exist
+2025-09-27 22:05:52,685 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage10" doesn't exist
+2025-09-27 22:05:52,734 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage11" doesn't exist
+2025-09-27 22:05:52,785 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage12" doesn't exist
+2025-09-27 22:05:52,834 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage13" doesn't exist
+2025-09-27 22:05:52,887 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage14" doesn't exist
+2025-09-27 22:05:52,930 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage15" doesn't exist
+2025-09-27 22:05:52,983 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage16" doesn't exist
+2025-09-27 22:05:53,025 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage17" doesn't exist
+2025-09-27 22:05:53,085 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage18" doesn't exist
+2025-09-27 22:05:53,128 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage19" doesn't exist
+2025-09-27 22:05:53,181 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage20" doesn't exist
+2025-09-27 22:05:53,230 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage21" doesn't exist
+2025-09-27 22:05:53,285 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage22" doesn't exist
+2025-09-27 22:05:53,328 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage23" doesn't exist
+2025-09-27 22:05:53,380 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage24" doesn't exist
+2025-09-27 22:05:53,429 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage25" doesn't exist
+2025-09-27 22:05:53,495 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage26" doesn't exist
+2025-09-27 22:05:53,534 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage27" doesn't exist
+2025-09-27 22:05:53,583 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage28" doesn't exist
+2025-09-27 22:05:53,632 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage29" doesn't exist
+2025-09-27 22:05:53,694 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage30" doesn't exist
+2025-09-27 22:05:53,738 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage31" doesn't exist
+2025-09-27 22:05:53,780 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage32" doesn't exist
+2025-09-27 22:05:53,829 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage33" doesn't exist
+2025-09-27 22:05:53,886 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage34" doesn't exist
+2025-09-27 22:05:53,934 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage35" doesn't exist
+2025-09-27 22:05:53,983 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage36" doesn't exist
+2025-09-27 22:05:54,030 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage37" doesn't exist
+2025-09-27 22:05:54,083 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage38" doesn't exist
+2025-09-27 22:05:54,141 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage39" doesn't exist
+2025-09-27 22:05:54,240 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage40" doesn't exist
+2025-09-27 22:05:54,276 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage41" doesn't exist
+2025-09-27 22:05:54,349 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage42" doesn't exist
+2025-09-27 22:05:54,395 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage43" doesn't exist
+2025-09-27 22:05:54,452 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage44" doesn't exist
+2025-09-27 22:05:54,499 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage45" doesn't exist
+2025-09-27 22:05:54,549 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage46" doesn't exist
+2025-09-27 22:05:54,596 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage47" doesn't exist
+2025-09-27 22:05:54,649 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage48" doesn't exist
+2025-09-27 22:05:54,694 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage49" doesn't exist
+2025-09-27 22:05:54,750 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage50" doesn't exist
+2025-09-27 22:05:54,796 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage51" doesn't exist
+2025-09-27 22:05:54,852 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage52" doesn't exist
+2025-09-27 22:05:54,888 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage53" doesn't exist
+2025-09-27 22:05:54,969 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage54" doesn't exist
+2025-09-27 22:05:55,025 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage55" doesn't exist
+2025-09-27 22:05:55,112 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage56" doesn't exist
+2025-09-27 22:05:55,163 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage57" doesn't exist
+2025-09-27 22:05:55,220 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage58" doesn't exist
+2025-09-27 22:05:55,263 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage59" doesn't exist
+2025-09-27 22:05:55,320 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage60" doesn't exist
+2025-09-27 22:05:55,362 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage61" doesn't exist
+2025-09-27 22:05:55,421 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage62" doesn't exist
+2025-09-27 22:05:55,462 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage63" doesn't exist
+2025-09-27 22:05:55,523 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage64" doesn't exist
+2025-09-27 22:05:55,563 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage65" doesn't exist
+2025-09-27 22:05:55,620 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage66" doesn't exist
+2025-09-27 22:05:55,663 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage67" doesn't exist
+2025-09-27 22:05:55,715 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage68" doesn't exist
+2025-09-27 22:05:55,762 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage69" doesn't exist
+2025-09-27 22:05:55,814 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage70" doesn't exist
+2025-09-27 22:05:55,854 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage71" doesn't exist
+2025-09-27 22:05:55,917 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage72" doesn't exist
+2025-09-27 22:05:55,955 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage73" doesn't exist
+2025-09-27 22:05:56,022 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage74" doesn't exist
+2025-09-27 22:05:56,063 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage75" doesn't exist
+2025-09-27 22:05:56,116 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage76" doesn't exist
+2025-09-27 22:05:56,163 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage77" doesn't exist
+2025-09-27 22:05:56,215 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage78" doesn't exist
+2025-09-27 22:05:56,263 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage79" doesn't exist
+2025-09-27 22:05:56,317 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage80" doesn't exist
+2025-09-27 22:05:56,362 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage81" doesn't exist
+2025-09-27 22:05:56,417 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage82" doesn't exist
+2025-09-27 22:05:56,454 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage83" doesn't exist
+2025-09-27 22:05:56,502 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage84" doesn't exist
+2025-09-27 22:05:56,547 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage85" doesn't exist
+2025-09-27 22:05:56,606 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage86" doesn't exist
+2025-09-27 22:05:56,646 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage87" doesn't exist
+2025-09-27 22:05:56,702 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage88" doesn't exist
+2025-09-27 22:05:56,749 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage89" doesn't exist
+2025-09-27 22:05:56,799 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage90" doesn't exist
+2025-09-27 22:05:56,838 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage91" doesn't exist
+2025-09-27 22:05:56,900 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage92" doesn't exist
+2025-09-27 22:05:56,938 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage93" doesn't exist
+2025-09-27 22:05:56,997 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage94" doesn't exist
+2025-09-27 22:05:57,044 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage95" doesn't exist
+2025-09-27 22:05:57,100 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage96" doesn't exist
+2025-09-27 22:05:57,142 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage97" doesn't exist
+2025-09-27 22:05:57,212 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage98" doesn't exist
+2025-09-27 22:05:57,254 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage99" doesn't exist
+2025-09-27 22:05:57,317 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage100" doesn't exist
+2025-09-27 22:05:57,366 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage101" doesn't exist
+2025-09-27 22:05:57,421 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage102" doesn't exist
+2025-09-27 22:05:57,469 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage103" doesn't exist
+2025-09-27 22:05:57,522 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage104" doesn't exist
+2025-09-27 22:05:57,562 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage105" doesn't exist
+2025-09-27 22:05:57,619 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage106" doesn't exist
+2025-09-27 22:05:57,663 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage107" doesn't exist
+2025-09-27 22:05:57,718 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage108" doesn't exist
+2025-09-27 22:05:57,762 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage109" doesn't exist
+2025-09-27 22:05:57,818 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage110" doesn't exist
+2025-09-27 22:05:57,861 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage111" doesn't exist
+2025-09-27 22:05:57,918 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage112" doesn't exist
+2025-09-27 22:05:57,963 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage113" doesn't exist
+2025-09-27 22:05:58,020 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage114" doesn't exist
+2025-09-27 22:05:58,063 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage115" doesn't exist
+2025-09-27 22:05:58,118 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage116" doesn't exist
+2025-09-27 22:05:58,165 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage117" doesn't exist
+2025-09-27 22:05:58,219 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage118" doesn't exist
+2025-09-27 22:05:58,271 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage119" doesn't exist
+2025-09-27 22:05:58,323 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage120" doesn't exist
+2025-09-27 22:05:58,363 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage121" doesn't exist
+2025-09-27 22:05:58,427 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage122" doesn't exist
+2025-09-27 22:05:58,472 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage123" doesn't exist
+2025-09-27 22:05:58,521 - GawkDataCollector - WARNING - Error updating screen preview: image "pyimage124" doesn't exist
+2025-09-27 22:05:58,563 - GawkDataCollector - WARNING - Error updating webcam preview: image "pyimage125" doesn't exist
+2025-09-27 22:05:58,836 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:05:58,911 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:05:59,013 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:05:59,060 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:05:59,156 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:05:59,211 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:05:59,296 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:05:59,347 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:05:59,415 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:05:59,462 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:05:59,529 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:05:59,565 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:05:59,622 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:05:59,668 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:05:59,719 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:05:59,766 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:05:59,828 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:05:59,877 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:05:59,932 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:05:59,972 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:06:00,044 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:06:00,088 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:06:00,152 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:06:00,205 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:06:00,268 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:06:00,313 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:06:00,368 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:06:00,415 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:06:00,468 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:06:00,514 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:06:00,563 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:06:00,615 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:06:00,677 - GawkDataCollector - WARNING - Error updating screen preview: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:06:00,717 - GawkDataCollector - WARNING - Error updating webcam preview: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:06:01,860 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:02,995 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:06:04,134 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:05,261 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:06:06,427 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:07,571 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:06:08,723 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:09,859 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:06:11,012 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:12,163 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:06:13,311 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:14,467 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:06:15,610 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:16,755 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:06:17,891 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:19,036 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:06:20,210 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:21,359 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:06:22,610 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:23,745 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:06:24,952 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:06:26,104 - GawkDataCollector - ERROR - Recording error: main thread is not in main loop
+2025-09-27 22:06:26,104 - GawkDataCollector - INFO - Recording thread ended. Total frames: 90
+2025-09-27 22:07:18,065 - GawkDataCollector - INFO - Data collection application initialized
+2025-09-27 22:07:20,242 - GawkDataCollector - INFO - Starting PDF selection process
+2025-09-27 22:07:22,574 - GawkDataCollector - INFO - PDF selected: C:/Users/chinm/Downloads/content.pdf
+2025-09-27 22:07:22,574 - GawkDataCollector - INFO - PDF copied successfully to: gawk_data\pdfs\manual_1759025242.pdf
+2025-09-27 22:07:25,170 - GawkDataCollector - INFO - Starting recording process
+2025-09-27 22:07:25,170 - GawkDataCollector - INFO - Initializing webcam...
+2025-09-27 22:07:25,526 - GawkDataCollector - INFO - Webcam initialized: 640x480 @ 30fps
+2025-09-27 22:07:25,526 - GawkDataCollector - INFO - Initializing screen capture...
+2025-09-27 22:07:25,542 - GawkDataCollector - INFO - Screen capture initialized: 1920x1200
+2025-09-27 22:07:25,553 - GawkDataCollector - INFO - Video writers created: webcam=gawk_data\videos\webcam_20250927_220725.avi, screen=gawk_data\videos\screen_20250927_220725.avi
+2025-09-27 22:07:25,553 - GawkDataCollector - INFO - Recording thread started
+2025-09-27 22:07:25,557 - GawkDataCollector - INFO - Recording started successfully
+2025-09-27 22:07:26,132 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage1" doesn't exist
+2025-09-27 22:07:26,192 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage2" doesn't exist
+2025-09-27 22:07:26,243 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage3" doesn't exist
+2025-09-27 22:07:26,309 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage4" doesn't exist
+2025-09-27 22:07:26,344 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage5" doesn't exist
+2025-09-27 22:07:26,409 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage6" doesn't exist
+2025-09-27 22:07:26,445 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage7" doesn't exist
+2025-09-27 22:07:26,509 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage8" doesn't exist
+2025-09-27 22:07:26,552 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage9" doesn't exist
+2025-09-27 22:07:26,602 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage10" doesn't exist
+2025-09-27 22:07:26,645 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage11" doesn't exist
+2025-09-27 22:07:26,700 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage12" doesn't exist
+2025-09-27 22:07:26,751 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage13" doesn't exist
+2025-09-27 22:07:26,804 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage14" doesn't exist
+2025-09-27 22:07:26,849 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage15" doesn't exist
+2025-09-27 22:07:26,894 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage16" doesn't exist
+2025-09-27 22:07:26,943 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage17" doesn't exist
+2025-09-27 22:07:26,992 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage18" doesn't exist
+2025-09-27 22:07:27,035 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage19" doesn't exist
+2025-09-27 22:07:27,078 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage20" doesn't exist
+2025-09-27 22:07:27,125 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage21" doesn't exist
+2025-09-27 22:07:27,176 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage22" doesn't exist
+2025-09-27 22:07:27,219 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage23" doesn't exist
+2025-09-27 22:07:27,285 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage24" doesn't exist
+2025-09-27 22:07:27,327 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage25" doesn't exist
+2025-09-27 22:07:27,392 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage26" doesn't exist
+2025-09-27 22:07:27,435 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage27" doesn't exist
+2025-09-27 22:07:27,482 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage28" doesn't exist
+2025-09-27 22:07:27,526 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage29" doesn't exist
+2025-09-27 22:07:27,584 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage30" doesn't exist
+2025-09-27 22:07:27,627 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage31" doesn't exist
+2025-09-27 22:07:27,694 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage32" doesn't exist
+2025-09-27 22:07:27,730 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage33" doesn't exist
+2025-09-27 22:07:27,793 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage34" doesn't exist
+2025-09-27 22:07:27,832 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage35" doesn't exist
+2025-09-27 22:07:27,880 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage36" doesn't exist
+2025-09-27 22:07:27,928 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage37" doesn't exist
+2025-09-27 22:07:27,992 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage38" doesn't exist
+2025-09-27 22:07:28,037 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage39" doesn't exist
+2025-09-27 22:07:28,095 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage40" doesn't exist
+2025-09-27 22:07:28,138 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage41" doesn't exist
+2025-09-27 22:07:28,181 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage42" doesn't exist
+2025-09-27 22:07:28,232 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage43" doesn't exist
+2025-09-27 22:07:28,292 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage44" doesn't exist
+2025-09-27 22:07:28,336 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage45" doesn't exist
+2025-09-27 22:07:28,392 - GawkDataCollector - WARNING - Error updating screen preview UI: image "pyimage46" doesn't exist
+2025-09-27 22:07:28,437 - GawkDataCollector - WARNING - Error updating webcam preview UI: image "pyimage47" doesn't exist
+2025-09-27 22:07:28,741 - GawkDataCollector - WARNING - Error updating screen preview UI: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:07:28,793 - GawkDataCollector - WARNING - Error updating webcam preview UI: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:07:28,907 - GawkDataCollector - WARNING - Error updating screen preview UI: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:07:28,963 - GawkDataCollector - WARNING - Error updating webcam preview UI: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:07:29,062 - GawkDataCollector - WARNING - Error updating screen preview UI: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:07:29,108 - GawkDataCollector - WARNING - Error updating webcam preview UI: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:07:29,209 - GawkDataCollector - WARNING - Error updating screen preview UI: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:07:29,258 - GawkDataCollector - WARNING - Error updating webcam preview UI: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:07:29,337 - GawkDataCollector - WARNING - Error updating screen preview UI: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:07:29,387 - GawkDataCollector - WARNING - Error updating webcam preview UI: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:07:29,461 - GawkDataCollector - WARNING - Error updating screen preview UI: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:07:29,504 - GawkDataCollector - WARNING - Error updating webcam preview UI: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:07:29,561 - GawkDataCollector - WARNING - Error updating screen preview UI: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:07:29,595 - GawkDataCollector - WARNING - Error updating recording info: invalid command name ".!frame3.!label"
+2025-09-27 22:07:29,600 - GawkDataCollector - WARNING - Error updating webcam preview UI: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:07:29,664 - GawkDataCollector - WARNING - Error updating screen preview UI: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:07:29,709 - GawkDataCollector - WARNING - Error updating webcam preview UI: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:07:29,766 - GawkDataCollector - WARNING - Error updating screen preview UI: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:07:29,809 - GawkDataCollector - WARNING - Error updating webcam preview UI: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:07:29,870 - GawkDataCollector - WARNING - Error updating screen preview UI: invalid command name ".!labelframe.!frame2.!label2"
+2025-09-27 22:07:29,911 - GawkDataCollector - WARNING - Error updating webcam preview UI: invalid command name ".!labelframe.!frame.!label2"
+2025-09-27 22:07:31,077 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:07:32,191 - GawkDataCollector - WARNING - Error updating webcam preview: main thread is not in main loop
+2025-09-27 22:07:33,357 - GawkDataCollector - WARNING - Error updating screen preview: main thread is not in main loop
+2025-09-27 22:09:01,027 - GawkDataCollector - INFO - Data collection application initialized
+2025-09-27 22:09:02,797 - GawkDataCollector - INFO - Starting PDF selection process
+2025-09-27 22:09:04,793 - GawkDataCollector - INFO - PDF selected: C:/Users/chinm/Downloads/content.pdf
+2025-09-27 22:09:04,801 - GawkDataCollector - INFO - PDF copied successfully to: gawk_data\pdfs\manual_1759025344.pdf
+2025-09-27 22:09:09,705 - GawkDataCollector - INFO - Starting recording process
+2025-09-27 22:09:09,705 - GawkDataCollector - INFO - Initializing webcam...
+2025-09-27 22:09:10,138 - GawkDataCollector - INFO - Webcam initialized: 640x480 @ 30fps
+2025-09-27 22:09:10,138 - GawkDataCollector - INFO - Initializing screen capture...
+2025-09-27 22:09:10,138 - GawkDataCollector - INFO - Screen capture initialized: 1920x1200
+2025-09-27 22:09:10,161 - GawkDataCollector - INFO - Video writers created: webcam=gawk_data\videos\webcam_20250927_220910.avi, screen=gawk_data\videos\screen_20250927_220910.avi
+2025-09-27 22:09:10,161 - GawkDataCollector - INFO - Recording thread started
+2025-09-27 22:09:10,161 - GawkDataCollector - INFO - Recording started successfully
+2025-09-27 22:09:39,498 - GawkDataCollector - INFO - Recorded 300 frames
+2025-09-27 22:09:42,626 - GawkDataCollector - INFO - Stopping recording...
+2025-09-27 22:09:42,718 - GawkDataCollector - INFO - Recording thread ended. Total frames: 327
+2025-09-27 22:09:42,721 - GawkDataCollector - INFO - Recording thread stopped
+2025-09-27 22:09:43,247 - GawkDataCollector - INFO - Webcam released
+2025-09-27 22:09:43,247 - GawkDataCollector - INFO - Webcam writer released
+2025-09-27 22:09:43,275 - GawkDataCollector - INFO - Screen writer released
+2025-09-27 22:09:43,275 - GawkDataCollector - INFO - Saving metadata...
+2025-09-27 22:09:43,275 - GawkDataCollector - INFO - Extracting PDF info from: gawk_data\pdfs\manual_1759025344.pdf
+2025-09-27 22:09:43,280 - GawkDataCollector - INFO - PDF info extracted: 10 pages, title: Unknown
+2025-09-27 22:09:43,280 - GawkDataCollector - INFO - Recording metadata saved to: gawk_data\metadata\recording_info.json
+2025-09-27 22:09:43,280 - GawkDataCollector - INFO - PDF metadata saved to: gawk_data\metadata\pdf_info.json
+2025-09-27 22:09:43,280 - GawkDataCollector - INFO - Extracting PDF pages as images...
+2025-09-27 22:09:43,280 - GawkDataCollector - INFO - Converting PDF to images with DPI 150...
+2025-09-27 22:09:43,295 - GawkDataCollector - WARNING - Poppler not available: Unable to get page count. Is poppler installed and in PATH?
+2025-09-27 22:09:43,295 - GawkDataCollector - INFO - Creating placeholder pages for analysis...
+2025-09-27 22:09:43,295 - GawkDataCollector - INFO - Created placeholder page 1: gawk_data\pdf_pages\page_000.png
+2025-09-27 22:09:43,312 - GawkDataCollector - INFO - Created placeholder page 2: gawk_data\pdf_pages\page_001.png
+2025-09-27 22:09:43,323 - GawkDataCollector - INFO - Created placeholder page 3: gawk_data\pdf_pages\page_002.png
+2025-09-27 22:09:43,327 - GawkDataCollector - INFO - Created placeholder page 4: gawk_data\pdf_pages\page_003.png
+2025-09-27 22:09:43,327 - GawkDataCollector - INFO - Created placeholder page 5: gawk_data\pdf_pages\page_004.png
+2025-09-27 22:09:43,327 - GawkDataCollector - INFO - Created placeholder page 6: gawk_data\pdf_pages\page_005.png
+2025-09-27 22:09:43,349 - GawkDataCollector - INFO - Created placeholder page 7: gawk_data\pdf_pages\page_006.png
+2025-09-27 22:09:43,349 - GawkDataCollector - INFO - Created placeholder page 8: gawk_data\pdf_pages\page_007.png
+2025-09-27 22:09:43,362 - GawkDataCollector - INFO - Created placeholder page 9: gawk_data\pdf_pages\page_008.png
+2025-09-27 22:09:43,368 - GawkDataCollector - INFO - Created placeholder page 10: gawk_data\pdf_pages\page_009.png
+2025-09-27 22:09:43,368 - GawkDataCollector - INFO - Metadata saved successfully
+2025-09-27 22:09:43,368 - GawkDataCollector - INFO - Recording stopped successfully
+2025-09-27 22:43:55,035 - GawkDataCollector - INFO - Data collection application initialized
+2025-09-27 22:44:37,084 - GawkDataCollector - INFO - Starting PDF selection process
+2025-09-27 22:44:40,161 - GawkDataCollector - INFO - PDF selected: D:/Princeton/Hack/Snapdragon-Multiverse-Hackathon/gawk_data/pdfs/content.pdf
+2025-09-27 22:44:40,163 - GawkDataCollector - INFO - PDF copied successfully to: gawk_data\pdfs\manual_1759027480.pdf
+2025-09-27 22:44:45,187 - GawkDataCollector - INFO - Starting recording process
+2025-09-27 22:44:45,187 - GawkDataCollector - INFO - Initializing webcam...
+2025-09-27 22:44:45,949 - GawkDataCollector - INFO - Webcam initialized: 640x480 @ 30fps
+2025-09-27 22:44:45,949 - GawkDataCollector - INFO - Initializing screen capture...
+2025-09-27 22:44:45,949 - GawkDataCollector - INFO - Screen capture initialized: 1920x1200
+2025-09-27 22:44:45,961 - GawkDataCollector - INFO - Video writers created: webcam=gawk_data\videos\webcam_20250927_224445.avi, screen=gawk_data\videos\screen_20250927_224445.avi
+2025-09-27 22:44:45,961 - GawkDataCollector - INFO - Recording thread started
+2025-09-27 22:44:45,961 - GawkDataCollector - INFO - Recording started successfully
+2025-09-27 22:45:23,172 - GawkDataCollector - INFO - Stopping recording...
+2025-09-27 22:45:23,198 - GawkDataCollector - INFO - Recording thread ended. Total frames: 279
+2025-09-27 22:45:23,198 - GawkDataCollector - INFO - Recording thread stopped
+2025-09-27 22:45:23,646 - GawkDataCollector - INFO - Webcam released
+2025-09-27 22:45:23,652 - GawkDataCollector - INFO - Webcam writer released
+2025-09-27 22:45:23,669 - GawkDataCollector - INFO - Screen writer released
+2025-09-27 22:45:23,669 - GawkDataCollector - INFO - Saving metadata...
+2025-09-27 22:45:23,669 - GawkDataCollector - INFO - Extracting PDF info from: gawk_data\pdfs\manual_1759027480.pdf
+2025-09-27 22:45:23,684 - GawkDataCollector - INFO - PDF info extracted: 10 pages, title: Unknown
+2025-09-27 22:45:23,684 - GawkDataCollector - INFO - Recording metadata saved to: gawk_data\metadata\recording_info.json
+2025-09-27 22:45:23,684 - GawkDataCollector - INFO - PDF metadata saved to: gawk_data\metadata\pdf_info.json
+2025-09-27 22:45:23,684 - GawkDataCollector - INFO - Extracting PDF pages as images using PyMuPDF...
+2025-09-27 22:45:23,684 - GawkDataCollector - INFO - PDF opened successfully: 10 pages
+2025-09-27 22:45:23,861 - GawkDataCollector - INFO - Saved page 1: gawk_data\pdf_pages\page_000.png
+2025-09-27 22:45:23,984 - GawkDataCollector - INFO - Saved page 2: gawk_data\pdf_pages\page_001.png
+2025-09-27 22:45:24,142 - GawkDataCollector - INFO - Saved page 3: gawk_data\pdf_pages\page_002.png
+2025-09-27 22:45:24,270 - GawkDataCollector - INFO - Saved page 4: gawk_data\pdf_pages\page_003.png
+2025-09-27 22:45:24,381 - GawkDataCollector - INFO - Saved page 5: gawk_data\pdf_pages\page_004.png
+2025-09-27 22:45:24,508 - GawkDataCollector - INFO - Saved page 6: gawk_data\pdf_pages\page_005.png
+2025-09-27 22:45:24,662 - GawkDataCollector - INFO - Saved page 7: gawk_data\pdf_pages\page_006.png
+2025-09-27 22:45:24,775 - GawkDataCollector - INFO - Saved page 8: gawk_data\pdf_pages\page_007.png
+2025-09-27 22:45:24,882 - GawkDataCollector - INFO - Saved page 9: gawk_data\pdf_pages\page_008.png
+2025-09-27 22:45:24,967 - GawkDataCollector - INFO - Saved page 10: gawk_data\pdf_pages\page_009.png
+2025-09-27 22:45:24,967 - GawkDataCollector - ERROR - Error extracting PDF pages: document closed
+2025-09-27 22:45:24,969 - GawkDataCollector - INFO - Creating placeholder pages as fallback...
+2025-09-27 22:45:24,977 - GawkDataCollector - INFO - Created placeholder page 1: gawk_data\pdf_pages\page_000.png
+2025-09-27 22:45:24,979 - GawkDataCollector - INFO - Created placeholder page 2: gawk_data\pdf_pages\page_001.png
+2025-09-27 22:45:24,979 - GawkDataCollector - INFO - Created placeholder page 3: gawk_data\pdf_pages\page_002.png
+2025-09-27 22:45:24,993 - GawkDataCollector - INFO - Created placeholder page 4: gawk_data\pdf_pages\page_003.png
+2025-09-27 22:45:24,993 - GawkDataCollector - INFO - Created placeholder page 5: gawk_data\pdf_pages\page_004.png
+2025-09-27 22:45:24,993 - GawkDataCollector - INFO - Created placeholder page 6: gawk_data\pdf_pages\page_005.png
+2025-09-27 22:45:25,011 - GawkDataCollector - INFO - Created placeholder page 7: gawk_data\pdf_pages\page_006.png
+2025-09-27 22:45:25,011 - GawkDataCollector - INFO - Created placeholder page 8: gawk_data\pdf_pages\page_007.png
+2025-09-27 22:45:25,025 - GawkDataCollector - INFO - Created placeholder page 9: gawk_data\pdf_pages\page_008.png
+2025-09-27 22:45:25,025 - GawkDataCollector - INFO - Created placeholder page 10: gawk_data\pdf_pages\page_009.png
+2025-09-27 22:45:25,036 - GawkDataCollector - INFO - Metadata saved successfully
+2025-09-27 22:45:25,036 - GawkDataCollector - INFO - Recording stopped successfully

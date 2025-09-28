@@ -1,0 +1,16 @@
+{
+  "start_time": 1759027485.9613338,
+  "end_time": 1759027523.6843827,
+  "duration": 37.72304892539978,
+  "webcam_file": "gawk_data\\videos\\webcam_20250927_224523.avi",
+  "screen_file": "gawk_data\\videos\\screen_20250927_224523.avi",
+  "pdf_file": "gawk_data\\pdfs\\manual_1759027480.pdf",
+  "webcam_resolution": [
+    640,
+    480
+  ],
+  "screen_resolution": [
+    1920,
+    1080
+  ]
+}
