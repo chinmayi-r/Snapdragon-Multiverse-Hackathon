@@ -1,4 +1,4 @@
-# Gawk - Attention Analysis System
+# Gawk 
 
 A real-time computer vision system for analyzing user attention while reading PDF manuals. Built for the Snapdragon Multiverse Hackathon focusing on real-time computer vision applications.
 
@@ -221,3 +221,4 @@ This project is developed for educational and research purposes as part of the S
 - MediaPipe team for facial analysis tools
 - OpenCV community for computer vision libraries
 - All open-source contributors whose work made this project possible
+
